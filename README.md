@@ -110,7 +110,7 @@ npm run dev
 
 This project can be deployed easily on Vercel or Netlify.
 
-✅ Live Link: <PASTE_YOUR_LIVE_URL_HERE>
+✅ Live Link: <https://hotel-booking-system-eta-ivory.vercel.app/>
 
 ✅ Future Improvements (Optional)
 
