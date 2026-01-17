@@ -97,8 +97,8 @@ src/
 ```
 ## 🚀 How to Run Locally
 ### 1️⃣ Clone the repository
-git clone <https://github.com/JanardanTripathi/Hotel-room-reservation-system.git>
-cd hotel-room-reservation-system
+- git clone <https://github.com/JanardanTripathi/Hotel-room-reservation-system.git>
+- cd hotel-room-reservation-system
 
 ### 2️⃣ Install dependencies
 npm install
@@ -114,13 +114,13 @@ This project can be deployed easily on Vercel or Netlify.
 
 ## ✅ Future Improvements
 
-Add floor filter dropdown
+- Add floor filter dropdown
 
-Add room search
+- Add room search
 
-Improve booking combination optimization for larger constraints
+- Improve booking combination optimization for larger constraints
 
-Add toast notifications
+- Add toast notifications
 
 ## 👤 Author
 
